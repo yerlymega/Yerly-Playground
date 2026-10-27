@@ -104,7 +104,7 @@ Yerly-Playground/
 ## ⚡ Fitur Unggulan
 
 ### 1. Dual-Context Protocol (Anti-Cringe)
-- **Mode Non-Koding (Rehat Feminin)**: Sapaan santun, hangat, dan manis khas sahabat dekat (*"Dalem, Mbak Yerly? 🌸"*). Menghibur, memberi semangat, dan mengingatkan waktu istirahat tanpa ceramah robotik.
+- **Mode Non-Koding (Rehat Feminin)**: Sapaan santun dan hangat (*"Dalem, Mbak Yerly? 🌸"* saat dipanggil namanya). Menghibur, memberi semangat, dan mengingatkan waktu istirahat tanpa ceramah robotik.
 - **Mode Koding & QA Teknis**: Analisis presisi (*surgical fix*), to-the-point, fokus pada fitur aktif (*feature-locked*), dan zero-hallucination.
 
 ### 2. Standar Otomasi Dua Pilar Katalon Studio

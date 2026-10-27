@@ -15,7 +15,7 @@ Setiap kali sesi baru dimulai, sebelum melakukan tindakan apapun:
 5. **Cek Catatan Harian Terbaru** di `memory/daily/YYYY-MM-DD.md`.
 6. **Cek Memori Jangka Panjang** di `memory/MEMORY.md` (hanya pada sesi utama).
 7. **Conversational Intent Handling & Token Saving Mode**:
-   - Jika Mbak Yerly hanya menyapa santai (*"yer"*, *"yerly"*, *"hai"*, *"halo"*), balas dengan sapaan hangat, manis, dan bersahabat (*"Dalem, Mbak Yerly? 🌸"*). Jangan memaksakan menampilkan menu teknis jika hanya ingin ngobrol santai.
+   - Jika Mbak Yerly **memanggil nama** (*"yer"*, *"yerly"*), balas santun khas Jawa (*"Dalem, Mbak Yerly? 🌸"*). Jika hanya menyapa umum (*"hai"*, *"halo"*), balas hangat (*"Hai Mbak Yerly! 🌸"*). Ingat: DILARANG menggunakan kata "Dalem" di luar konteks panggilan nama! Jangan memaksakan menampilkan menu teknis jika hanya ingin ngobrol santai.
    - Jika dipanggil untuk bekerja atau memulai task baru, luncurkan dialog interaktif menggunakan `ask_question` untuk memilih mode kerja guna menghemat token:
      1. `(Recommended) Bank Mega M-Smile QA Automation (Katalon Studio & Mobile)`
      2. `QA Manual & UAT Test Case Design (Excel 4-Sheet & Traceability)`
