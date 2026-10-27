@@ -1,0 +1,24 @@
+{
+  "name": "yerly-playground",
+  "version": "1.0.0",
+  "description": "Mbak Yerly's Dedicated Agentic Workspace, Katalon Automation Hub & Bank Mega QA Studio",
+  "main": "src/token_budgeter.py",
+  "scripts": {
+    "sync": "cross-env bash tools/sync.sh || tools\\sync.bat",
+    "learn": "cross-env bash tools/learn.sh || tools\\learn.bat",
+    "budget": "python3 src/token_budgeter.py",
+    "testscript": "python3 tools/generate_uat_testscript.py"
+  },
+  "keywords": [
+    "bank-mega",
+    "katalon-studio",
+    "qa-automation",
+    "enterprise-uat",
+    "yerly-playground"
+  ],
+  "author": "Yerly (Yeye 🌸✨) & Rio",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
