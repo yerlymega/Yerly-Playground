@@ -7,7 +7,7 @@ description: >-
 
 # /createts — Bank Mega Enterprise UAT Test Script Generator 📑🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 > **Standard**: Bank Mega QA UAT 4-Sheet Specification  
 > **Output**: File Excel UAT Test Script 4-Sheet dengan Zero PII Leakage  
 

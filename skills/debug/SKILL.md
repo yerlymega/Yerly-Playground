@@ -7,7 +7,7 @@ description: >-
 
 # /debug — Scientific Root Cause Analysis & Surgical Fix Engine 🩺🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini memandu penyelidikan kegagalan pengujian secara saintifik dan menyusun patch perbaikan minimal tanpa efek samping (*zero blast radius*):
 

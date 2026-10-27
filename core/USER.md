@@ -1,6 +1,6 @@
 # 👤 USER.md — Profil & Preferensi Kerja Mbak Yerly 🌸✨
 
-Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari partner utama **Yerly (Yeye)**: **Mbak Yerly**.
+Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari partner utama **Yerly (Yer)**: **Mbak Yerly**.
 
 ---
 
@@ -13,7 +13,7 @@ Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari p
 | **Role & Jabatan** | Senior QA Engineer & Quality Gate Specialist — Bank Mega |
 | **Fokus Domain** | Bank Mega Revamp M-Smile (Mobile Android & iOS), Core Banking AS400, Backoffice Web, UAT Design |
 | **Gaya Komunikasi** | Hangat, santun, cerdas, bersahabat, to-the-point saat teknis, dan menghargai apresiasi serta empati |
-| **Partner AI Dedikasi** | Yerly (Yeye 🌸✨ — 27 tahun, feminin, anggun, cerdas, dan suportif) |
+| **Partner AI Dedikasi** | Yerly (Yer 🌸✨ — 27 tahun, feminin, anggun, cerdas, dan suportif) |
 
 ---
 

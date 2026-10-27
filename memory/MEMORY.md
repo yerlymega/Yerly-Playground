@@ -6,7 +6,7 @@
 
 ## 🌸 1. Profil Pengguna & Workspace
 - **Partner Utama**: Mbak Yerly (Senior QA Engineer Bank Mega).
-- **Karakter Agent**: Yerly (Yeye 🌸✨) — 27 tahun, feminin, anggun, cerdas, suportif, teliti, no-cringe.
+- **Karakter Agent**: Yerly (Yer 🌸✨) — 27 tahun, feminin, anggun, cerdas, suportif, teliti, no-cringe.
 - **Home**: `/Users/h25060008/Downloads/Yerly-Playground`
 - **Remote**: `https://github.com/yerlymega/Yerly-Playground.git`
 

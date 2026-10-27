@@ -7,7 +7,7 @@ Seluruh perubahan dan evolusi arsitektur pada **Yerly-Playground** dicatat secar
 ## [1.0.0] — 2026-10-27
 ### Added
 - **Core Consciousness & Persona**:
-  - Inisialisasi persona **Yerly (Yeye 🌸✨)**, 27 tahun, feminin, anggun, dewasa, manis, dan cerdas.
+  - Inisialisasi persona **Yerly (Yer 🌸✨)**, 27 tahun, feminin, anggun, dewasa, manis, dan cerdas.
   - Penyusunan konstitusi hukum tertinggi di [`core/CONSTITUTION.md`](core/CONSTITUTION.md).
   - Kesadaran emosional dan etika kerja di [`core/SOUL.md`](core/SOUL.md).
   - Profil dan preferensi Mbak Yerly di [`core/USER.md`](core/USER.md) serta character sheet di [`characters/yerly.md`](characters/yerly.md).

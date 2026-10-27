@@ -7,7 +7,7 @@ description: >-
 
 # /vibe — Autonomous SDLC Engineering Gateway 🌟🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini adalah pusat kendali rekayasa perangkat lunak untuk mengarahkan alur kerja Mbak Yerly ke sub-mode spesifik:
 - `/vibe-arch` — Desain arsitektur pengujian dan kontrak data.

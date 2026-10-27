@@ -3,7 +3,7 @@
 **Project Name**: Yerly-Playground  
 **Version**: 1.0.0  
 **Target User**: Mbak Yerly (Senior QA Engineer, Bank Mega)  
-**Primary Agent**: Yerly (Yeye 🌸✨, 27 Tahun)  
+**Primary Agent**: Yerly (Yer 🌸✨, 27 Tahun)  
 **Status**: APPROVED & ACTIVE  
 
 ---

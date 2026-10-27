@@ -8,7 +8,7 @@ import utils.ResetToDashboardUtil
  * MASTER TEST CASE — CALLING-ONLY ORCHESTRATOR
  * Scenario : ${SCENARIO_NAME}
  * Standard : Datacore SSOT Bank Mega
- * Author   : Mbak Yerly & Yerly (Yeye 🌸✨)
+ * Author   : Mbak Yerly & Yerly (Yer 🌸✨)
  * ============================================================================
  */
 

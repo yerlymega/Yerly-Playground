@@ -7,7 +7,7 @@ description: >-
 
 # /login-ws — AS400 Core Banking Host Login 💻🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini memfasilitasi login otomatis ke lingkungan host IBM i (AS400) Core Banking Bank Mega melalui emulator terminal 5250:
 - Penanganan System i Signon dialog.

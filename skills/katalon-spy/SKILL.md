@@ -7,7 +7,7 @@ description: >-
 
 # /katalon-spy — Mobile Automation Spying & Object Repository Engine 📱🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 > **Target**: Bank Mega Revamp M-Smile (Android & iOS)  
 
 Skill ini memandu proses penangkapan elemen antarmuka (*UI spying*), standarisasi selector Object Repository (`.rs`), dan perancangan Reusable Screen Flow di Katalon Studio Enterprise.

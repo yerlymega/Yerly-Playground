@@ -8,7 +8,7 @@ import utils.ScrollUtil
  * ============================================================================
  * REUSABLE SCREEN FLOW — SINGLE SCREEN RESPONSIBILITY
  * Screen   : ${SCREEN_NAME}
- * Author   : Mbak Yerly & Yerly (Yeye 🌸✨)
+ * Author   : Mbak Yerly & Yerly (Yer 🌸✨)
  * ============================================================================
  */
 

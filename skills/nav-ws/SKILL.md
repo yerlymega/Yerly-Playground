@@ -7,7 +7,7 @@ description: >-
 
 # /nav-ws — AS400 Core Banking Host Navigation 💻🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini mengoperasikan navigasi dan inquiry di dalam sesi host terminal 5250 AS400 yang telah aktif:
 - Eksekusi program inquiry tabungan (`DD5000`).

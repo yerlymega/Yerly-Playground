@@ -7,7 +7,7 @@ description: >-
 
 # /audit — Codebase & Object Repository Audit Engine 🔬🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yeye 🌸✨)  
+> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini melakukan audit mendalam terhadap basis kode pengujian Katalon Studio untuk mendeteksi:
 - **Missing Scripts**: File Test Case `.tc` tanpa folder pasangan di `Scripts/`.

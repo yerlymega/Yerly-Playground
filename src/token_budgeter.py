@@ -46,7 +46,7 @@ def analyze_workspace():
 
     print("-----------------------------------------------------------")
     print(f"🌸 TOTAL KONTEN KANONIKAL: ~{total_tokens} tokens")
-    print("💡 Rekomendasi Yeye: Gunakan mode task selektif untuk menghemat!")
+    print("💡 Rekomendasi Yer: Gunakan mode task selektif untuk menghemat!")
     print("🌸 ======================================================= 🌸")
 
 if __name__ == "__main__":
