@@ -22,6 +22,6 @@ echo "- [$(date +"%H:%M:%S")] $NOTE" >> "$DAILY_FILE"
 
 git add memory/daily/ playbooks/ docs/
 git commit -m "docs(learn): $NOTE" || true
-git push origin main || git push origin master || true
+git push origin main
 
 echo "🌸 Ilmu baru berhasil dicatat dan disinkronisasikan ke Git!"

@@ -22,6 +22,6 @@ echo - [%TIME%] %NOTE% >> "%DAILY_FILE%"
 
 git add memory\daily\ playbooks\ docs\
 git commit -m "docs(learn): %NOTE%"
-git push origin main || git push origin master
+git push origin main
 
 echo 🌸 Ilmu baru berhasil dicatat dan disinkronisasikan ke Git!
