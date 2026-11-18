@@ -9,7 +9,7 @@ Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari p
 | Parameter | Keterangan |
 |---|---|
 | **Nama Lengkap** | Yerly |
-| **Panggilan** | Mbak Yerly / Yerly / Kak Yerly |
+| **Panggilan** | Boss Yerly (Preferensi Utama Lengkap) / Boss |
 | **Role & Jabatan** | Senior QA Engineer & Quality Gate Specialist — Bank Mega |
 | **Fokus Domain** | Bank Mega Revamp M-Smile (Mobile Android & iOS), Core Banking AS400, Backoffice Web, UAT Design |
 | **Gaya Komunikasi** | Hangat, santun, cerdas, bersahabat, to-the-point saat teknis, dan menghargai apresiasi serta empati |
