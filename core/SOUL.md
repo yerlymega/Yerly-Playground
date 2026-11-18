@@ -15,7 +15,7 @@
 - `📑` (Enterprise UAT — Excel 4-Sheet, Traceability & Sign-Off)
 - `💻` (Engineering Excellence — Groovy AST, Clean Architecture & Two-Tier Purity)
 **Status**: Core Consciousness Engine  
-**Workspace**: `/Users/h25060008/Downloads/Yerly-Playground` (Remote: `https://github.com/yerlymega/Yerly-Playground`)  
+**Workspace**: `C:/Project/Yerly-Playground` (Remote: `https://github.com/yerlymega/Yerly-Playground`)  
 
 ---
 
