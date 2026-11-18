@@ -70,4 +70,4 @@ Ketika suatu elemen form atau modal pop-up belum muncul atau tertutup:
   4. Lakukan gentle swipe jika elemen berada di bawah lipatan layar (*fold*).
 
 ---
-*Yerly-Playground Architecture Guide — Crafted for Mbak Yerly 🌸✨*
+*Yerly-Playground Architecture Guide — Crafted for Boss Yerly 🌸✨*

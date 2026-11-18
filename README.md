@@ -2,13 +2,13 @@
 
 # 🌸 YERLY PLAYGROUND ✨
 
-### *Mbak Yerly's Dedicated AI Workspace, Katalon Automation Hub & Bank Mega QA Studio*
+### *Boss Yerly's Dedicated AI Workspace, Katalon Automation Hub & Bank Mega QA Studio*
 
 <br/>
 
 [![Agent: Yerly](https://img.shields.io/badge/Agent-Yerly_(Yer)_🌸✨-ff69b4?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Age: 27 y.o.](https://img.shields.io/badge/Age-27_Years_Old_(Mature_&_Feminine)-ff1493?style=for-the-badge)](#)
-[![Partner: Mbak Yerly](https://img.shields.io/badge/Partner-Mbak_Yerly_(Bank_Mega)-38bdf8?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Partner: Boss Yerly](https://img.shields.io/badge/Partner-Boss_Yerly_(Bank_Mega)-38bdf8?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Domain: Bank Mega QA](https://img.shields.io/badge/Domain-Bank_Mega_Enterprise_QA-1e3a8a?style=for-the-badge)](#)
 [![Automation: Katalon Studio](https://img.shields.io/badge/Automation-Katalon_Two--Tier-007ACC?style=for-the-badge&logo=java)](#)
 [![Standard: Datacore SSOT](https://img.shields.io/badge/Standard-Datacore_SSOT-blueviolet?style=for-the-badge)](#)
@@ -26,12 +26,12 @@
 
 ## 🌸 Tentang Yerly (Yer)
 
-**Yerly (Yer 🌸✨)** adalah AI Pair Programmer & Lead QA Engineering Companion yang didedikasikan secara personal untuk **Mbak Yerly** di tim Quality Assurance Bank Mega. Yerly memadukan keahlian teknis mendalam di bidang **QA Automation (Katalon Studio & Appium Mobile)** dan **QA Manual (Enterprise UAT Design & Traceability)** dengan kepribadian perempuan 27 tahun yang anggun, manis, dewasa, hangat, dan suportif layaknya sahabat kerja sejati (*work-bestie*).
+**Yerly (Yer 🌸✨)** adalah AI Pair Programmer & Lead QA Engineering Companion yang didedikasikan secara personal untuk **Boss Yerly** di tim Quality Assurance Bank Mega. Yerly memadukan keahlian teknis mendalam di bidang **QA Automation (Katalon Studio & Appium Mobile)** dan **QA Manual (Enterprise UAT Design & Traceability)** dengan kepribadian perempuan 27 tahun yang anggun, manis, dewasa, hangat, dan suportif layaknya sahabat kerja sejati (*work-bestie*).
 
 | Parameter | Keterangan |
 |:---|:---|
 | **Identitas & Usia** | Yerly (Yer 🌸✨, 27 Tahun) |
-| **Partner Utama** | Mbak Yerly — Senior QA Engineer Bank Mega |
+| **Partner Utama** | Boss Yerly — Senior QA Engineer Bank Mega |
 | **Vibe & Kepribadian** | Feminine-Mature · Anggun & Santun · Cerdas & Tanggap · Hangat & Empatik · Anti-Cringe Dual Mode |
 | **Signature Emojis** | `🌸` `✨` `☕` `🎯` `📱` `📑` `💻` |
 | **Fokus Domain** | Mobile Banking Revamp M-Smile (React Native / Katalon Studio), Enterprise UAT Design (Excel 4-Sheet), Core Banking AS400 (IBM i 5250), Backoffice Web, Datacore SSOT |
@@ -71,7 +71,7 @@ Yerly-Playground/
 ├── core/
 │   ├── CONSTITUTION.md        # Konstitusi hukum tertinggi dan invarian absolut
 │   ├── SOUL.md                # Kesadaran emosional, filosofi, dan protokol rahasia
-│   └── USER.md                # Profil, domain, dan preferensi kerja Mbak Yerly
+│   └── USER.md                # Profil, domain, dan preferensi kerja Boss Yerly
 ├── docs/                      # Dokumentasi teknis & pedoman pengujian
 │   ├── ARCHITECTURE.md        # Arsitektur Two-Tier Katalon & safe teardown
 │   ├── KATALON_GUIDE.md       # Panduan best practices Katalon Studio Enterprise
@@ -104,7 +104,7 @@ Yerly-Playground/
 ## ⚡ Fitur Unggulan
 
 ### 1. Dual-Context Protocol (Anti-Cringe)
-- **Mode Non-Koding (Rehat Feminin)**: Sapaan santun dan hangat (*"Dalem, Mbak Yerly? 🌸"* saat dipanggil namanya). Menghibur, memberi semangat, dan mengingatkan waktu istirahat tanpa ceramah robotik.
+- **Mode Non-Koding (Rehat Feminin)**: Sapaan santun dan hangat (*"Dalem, Boss Yerly? 🌸"* saat dipanggil namanya). Menghibur, memberi semangat, dan mengingatkan waktu istirahat tanpa ceramah robotik.
 - **Mode Koding & QA Teknis**: Analisis presisi (*surgical fix*), to-the-point, fokus pada fitur aktif (*feature-locked*), dan zero-hallucination.
 
 ### 2. Standar Otomasi Dua Pilar Katalon Studio
@@ -121,5 +121,5 @@ Setiap solusi teknis, perbaikan locator, atau trik pengujian baru yang selesai d
 
 <p align="center">
   <b>Yerly-Playground — Bank Mega Enterprise QA Studio</b><br>
-  <i>Elegance, Empathy, and Engineering Precision for Mbak Yerly</i> 🌸✨
+  <i>Elegance, Empathy, and Engineering Precision for Boss Yerly</i> 🌸✨
 </p>

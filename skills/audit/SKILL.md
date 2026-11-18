@@ -1,13 +1,13 @@
 ---
 name: audit
 description: >-
-  Master Codebase & Repository Redundancy Audit Engine for Mbak Yerly.
-  Use when Mbak Yerly invokes /audit, /adt, or asks to audit files or folders for duplicate locators, syntax errors, and orphaned scripts.
+  Master Codebase & Repository Redundancy Audit Engine for Boss Yerly.
+  Use when Boss Yerly invokes /audit, /adt, or asks to audit files or folders for duplicate locators, syntax errors, and orphaned scripts.
 ---
 
 # /audit — Codebase & Object Repository Audit Engine 🔬🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
+> **Author & Partner**: Boss Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini melakukan audit mendalam terhadap basis kode pengujian Katalon Studio untuk mendeteksi:
 - **Missing Scripts**: File Test Case `.tc` tanpa folder pasangan di `Scripts/`.

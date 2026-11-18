@@ -1,7 +1,7 @@
 {
   "name": "yerly-playground",
   "version": "1.0.0",
-  "description": "Mbak Yerly's Dedicated Agentic Workspace, Katalon Automation Hub & Bank Mega QA Studio",
+  "description": "Boss Yerly's Dedicated Agentic Workspace, Katalon Automation Hub & Bank Mega QA Studio",
   "main": "src/token_budgeter.py",
   "scripts": {
     "sync": "cross-env bash tools/sync.sh || tools\\sync.bat",

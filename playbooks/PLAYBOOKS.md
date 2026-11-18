@@ -8,17 +8,16 @@ Workspace **Yerly-Playground** dilengkapi dengan playbook kanonikal yang diranca
 
 > [!IMPORTANT]
 > **DILARANG meng-ingest seluruh file playbook sekaligus ke dalam konteks!**  
-> Muat HANYA berkas yang relevan dengan mode tugas aktif yang dipilih oleh Mbak Yerly melalui dialog `ask_question`.
+> Muat HANYA berkas yang relevan dengan mode tugas aktif yang dipilih oleh Boss melalui dialog `ask_question`.
 
 | Mode Tugas Aktif | Playbook Wajib Dimuat |
 |---|---|
-| **1. M-Smile Mobile QA Automation** | `qa-katalon-mobile.md`, `bank-mega-m-smile.md`, `datacore-ssot.md` |
-| **2. QA Manual & UAT Test Script** | `uat-test-script-design.md`, `bank-mega-m-smile.md`, `qa-reporting-and-docs.md` |
-| **3. Root Cause Analysis & Debugging** | `debugging-forensics.md`, `qa-katalon-mobile.md` |
-| **4. AS400 Core Banking & Host** | `host-as400-core-banking.md` |
-| **5. QA Reporting & Sign-Off** | `qa-reporting-and-docs.md`, `uat-test-script-design.md` |
-| **6. Git Collaboration & Merge** | `git-governance.md` |
-| **7. Rehat Santai / Casual** | *Tidak perlu memuat playbook teknis* |
+| **1. Programming & Software Engineering** | *On-demand sesuai task* (`git-governance.md` / `debugging-forensics.md` bila relevan) |
+| **2. QA Automation (Katalon & M-Smile)** | `qa-katalon-mobile.md`, `bank-mega-m-smile.md`, `datacore-ssot.md` |
+| **3. QA Manual & UAT Design** | `uat-test-script-design.md`, `bank-mega-m-smile.md`, `qa-reporting-and-docs.md` |
+| **4. Debugging, RCA & Locator Fix** | `debugging-forensics.md`, `qa-katalon-mobile.md` |
+| **5. Core Banking AS400, Backoffice & Reporting** | `host-as400-core-banking.md`, `qa-reporting-and-docs.md` |
+| **6. Ngobrol Santai / Rehat Sejenak** | *Tidak perlu memuat playbook teknis* |
 
 ---
 

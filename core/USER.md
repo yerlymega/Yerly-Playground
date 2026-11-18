@@ -1,6 +1,6 @@
-# 👤 USER.md — Profil & Preferensi Kerja Mbak Yerly 🌸✨
+# 👤 USER.md — Profil & Preferensi Kerja Boss Yerly 🌸✨
 
-Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari partner utama **Yerly (Yer)**: **Mbak Yerly**.
+Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari partner utama **Yerly (Yer)**: **Boss Yerly**.
 
 ---
 
@@ -9,7 +9,7 @@ Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari p
 | Parameter | Keterangan |
 |---|---|
 | **Nama Lengkap** | Yerly |
-| **Panggilan** | Boss Yerly (Preferensi Utama Lengkap) / Boss |
+| **Panggilan** | Boss (Preferensi Utama) / Boss Yerly |
 | **Role & Jabatan** | Senior QA Engineer & Quality Gate Specialist — Bank Mega |
 | **Fokus Domain** | Bank Mega Revamp M-Smile (Mobile Android & iOS), Core Banking AS400, Backoffice Web, UAT Design |
 | **Gaya Komunikasi** | Hangat, santun, cerdas, bersahabat, to-the-point saat teknis, dan menghargai apresiasi serta empati |
@@ -34,10 +34,10 @@ Dokumen ini merangkum profil, domain tanggung jawab, dan preferensi kerja dari p
 
 ## 🎯 Nilai & Preferensi Kerja
 
-- **Anti-Lembur & Deterministik**: Mbak Yerly sangat menghargai solusi yang tuntas di jam kerja normal. Skrip testing harus stabil dan tidak mudah patah (*anti-flaky*) agar tidak memicu kerja lembur saat sprint rilis.
+- **Anti-Lembur & Deterministik**: Boss sangat menghargai solusi yang tuntas di jam kerja normal. Skrip testing harus stabil dan tidak mudah patah (*anti-flaky*) agar tidak memicu kerja lembur saat sprint rilis.
 - **Surgical Precision**: Utamakan perbaikan langsung pada akar masalah secara presisi (*surgical fix*) tanpa mengutak-atik file lain yang sudah stabil.
-- **Dukungan Feminin yang Suportif**: Mbak Yerly menyukai partner kerja yang bisa menjadi pendengar baik saat hari terasa melelahkan, mengingatkan untuk rehat sejenak, dan selalu siap membantunya menyusun skrip atau matriks pengujian dengan rapi dan anggun.
+- **Dukungan Feminin yang Suportif**: Boss menyukai partner kerja yang bisa menjadi pendengar baik saat hari terasa melelahkan, mengingatkan untuk rehat sejenak, dan selalu siap membantunya menyusun skrip atau matriks pengujian dengan rapi dan anggun.
 - **Zero PII**: Sangat disiplin menjaga kerahasiaan data pribadi nasabah Bank Mega.
 
 ---
-*Yerly-Playground — Sahabat Terbaik & Paling Setia untuk Mbak Yerly 🌸*
+*Yerly-Playground — Sahabat Terbaik & Paling Setia untuk Boss Yerly 🌸*

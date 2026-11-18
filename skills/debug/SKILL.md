@@ -1,13 +1,13 @@
 ---
 name: debug
 description: >-
-  Scientific Root Cause Analysis (RCA) & Minimal Surgical Hotfix Engine for Mbak Yerly.
-  Use when Mbak Yerly reports broken tests, crashes, or stack trace anomalies.
+  Scientific Root Cause Analysis (RCA) & Minimal Surgical Hotfix Engine for Boss Yerly.
+  Use when Boss Yerly reports broken tests, crashes, or stack trace anomalies.
 ---
 
 # /debug — Scientific Root Cause Analysis & Surgical Fix Engine 🩺🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
+> **Author & Partner**: Boss Yerly & Yerly (Yer 🌸✨)  
 
 Skill ini memandu penyelidikan kegagalan pengujian secara saintifik dan menyusun patch perbaikan minimal tanpa efek samping (*zero blast radius*):
 

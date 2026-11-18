@@ -1,13 +1,13 @@
 ---
 name: createts
 description: >-
-  Bank Mega UAT Test Script Excel (4-Sheet) Generator & Traceability Engine for Mbak Yerly.
-  Use when Mbak Yerly invokes /createts, /createTS, or asks to synthesize comprehensive, zero-hallucination UAT Test Scripts.
+  Bank Mega UAT Test Script Excel (4-Sheet) Generator & Traceability Engine for Boss Yerly.
+  Use when Boss Yerly invokes /createts, /createTS, or asks to synthesize comprehensive, zero-hallucination UAT Test Scripts.
 ---
 
 # /createts — Bank Mega Enterprise UAT Test Script Generator 📑🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
+> **Author & Partner**: Boss Yerly & Yerly (Yer 🌸✨)  
 > **Standard**: Bank Mega QA UAT 4-Sheet Specification  
 > **Output**: File Excel UAT Test Script 4-Sheet dengan Zero PII Leakage  
 

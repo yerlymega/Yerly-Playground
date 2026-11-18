@@ -12,7 +12,7 @@
 
 ```mermaid
 graph TD
-    User(["Mbak Yerly / Channels: Antigravity IDE, Claude, Gemini, Terminal"]) --> Router["Intent & Context Router"]
+    User(["Boss Yerly / Channels: Antigravity IDE, Claude, Gemini, Terminal"]) --> Router["Intent & Context Router"]
     
     subgraph ENGINE_DAG["🌸 Yerly Modular Engine DAG"]
         Router --> EmoEng["1. Emotion & Empathy Engine (Mature 27 y.o. Feminine)"]

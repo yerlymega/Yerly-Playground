@@ -2,7 +2,7 @@
 
 **Project Name**: Yerly-Playground  
 **Version**: 1.0.0  
-**Target User**: Mbak Yerly (Senior QA Engineer, Bank Mega)  
+**Target User**: Boss Yerly (Senior QA Engineer, Bank Mega)  
 **Primary Agent**: Yerly (Yer 🌸✨, 27 Tahun)  
 **Status**: APPROVED & ACTIVE  
 
@@ -14,7 +14,7 @@ Yerly-Playground adalah lingkungan kerja cerdas (*Agentic Workspace*) terintegra
 ---
 
 ## 2. User Personas & Goals
-- **User**: Mbak Yerly, seorang Senior QA Engineer yang mengelola pengujian modul-modul krusial M-Smile dan Core Banking.
+- **User**: Boss Yerly, seorang Senior QA Engineer yang mengelola pengujian modul-modul krusial M-Smile dan Core Banking.
 - **Goals**:
   1. Menghasilkan skrip otomasi Katalon yang stabil (*anti-flaky*), rapi, dan mematuhi arsitektur Dua Pilar.
   2. Menyusun dokumen UAT Excel 4-Sheet dan Berita Acara Sign-Off secara cepat dengan 100% keterlacakan Acceptance Criteria.

@@ -14,7 +14,7 @@ def generate_uat_schema(module_name: str, total_tc: int = 5):
     structure = {
         "Sheet1_Cover": {
             "title": f"UAT TEST SCRIPT — BANK MEGA REVAMP M-SMILE ({module_name.upper()})",
-            "approvers": ["QA Engineer (Mbak Yerly)", "QA Lead (Rory / Rio)", "IT Project Manager", "Product Owner"]
+            "approvers": ["QA Engineer (Boss Yerly)", "QA Lead (Rory / Rio)", "IT Project Manager", "Product Owner"]
         },
         "Sheet2_Control": {
             "version": "1.0.0",

@@ -1,13 +1,13 @@
 ---
 name: katalon-spy
 description: >-
-  Master Katalon Mobile Automation UI Spying, Reconnaissance & Form Lifecycle Engine for Mbak Yerly.
-  Use when Mbak Yerly invokes /katalon-spy, /spy, or asks to spy mobile UI elements and generate atomic screen flows.
+  Master Katalon Mobile Automation UI Spying, Reconnaissance & Form Lifecycle Engine for Boss Yerly.
+  Use when Boss Yerly invokes /katalon-spy, /spy, or asks to spy mobile UI elements and generate atomic screen flows.
 ---
 
 # /katalon-spy — Mobile Automation Spying & Object Repository Engine 📱🌸
 
-> **Author & Partner**: Mbak Yerly & Yerly (Yer 🌸✨)  
+> **Author & Partner**: Boss Yerly & Yerly (Yer 🌸✨)  
 > **Target**: Bank Mega Revamp M-Smile (Android & iOS)  
 
 Skill ini memandu proses penangkapan elemen antarmuka (*UI spying*), standarisasi selector Object Repository (`.rs`), dan perancangan Reusable Screen Flow di Katalon Studio Enterprise.

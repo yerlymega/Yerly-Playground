@@ -7,7 +7,7 @@
 | **Modul** | Transfer / Top Up / Zaku / MPIN / Lainnya |
 | **Aplikasi & Build**| Revamp M-Smile vX.X.X (Android / iOS) |
 | **Lingkungan** | SIT / UAT |
-| **Dilaporkan Oleh** | Mbak Yerly & Yerly (Yer 🌸✨) |
+| **Dilaporkan Oleh** | Boss Yerly & Yerly (Yer 🌸✨) |
 
 ---
 

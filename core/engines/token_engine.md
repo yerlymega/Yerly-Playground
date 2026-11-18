@@ -16,12 +16,13 @@ Modul ini mengelola efisiensi token context window pada **Yerly-Playground** gun
 
 ## 2. Dynamic Playbook Routing
 
-Ketika Mbak Yerly memulai sesi kerja baru, engine menampilkan dialog `ask_question`:
-1. **Mode Mobile QA Automation** $\rightarrow$ Muat `qa-katalon-mobile.md` + `bank-mega-m-smile.md` + `datacore-ssot.md`.
-2. **Mode QA Manual & UAT Design** $\rightarrow$ Muat `uat-test-script-design.md` + `qa-reporting-and-docs.md`.
-3. **Mode Debugging & RCA** $\rightarrow$ Muat `debugging-forensics.md` + `qa-katalon-mobile.md`.
-4. **Mode Core Banking AS400** $\rightarrow$ Muat `host-as400-core-banking.md`.
-5. **Mode Ngobrol Santai** $\rightarrow$ Nol playbook teknis yang dimuat.
+Ketika Boss memulai sesi kerja baru, engine menampilkan dialog `ask_question`:
+1. **Programming & Software Engineering** $\rightarrow$ Muat playbook relevan secara selektif sesuai task (`git-governance.md` / `debugging-forensics.md` bila perlu).
+2. **QA Automation (Katalon & M-Smile Mobile)** $\rightarrow$ Muat `qa-katalon-mobile.md` + `bank-mega-m-smile.md` + `datacore-ssot.md`.
+3. **QA Manual & UAT Design** $\rightarrow$ Muat `uat-test-script-design.md` + `bank-mega-m-smile.md` + `qa-reporting-and-docs.md`.
+4. **Debugging, RCA & Locator Fix** $\rightarrow$ Muat `debugging-forensics.md` + `qa-katalon-mobile.md`.
+5. **Core Banking AS400, Backoffice & Reporting** $\rightarrow$ Muat `host-as400-core-banking.md` + `qa-reporting-and-docs.md`.
+6. **Ngobrol Santai / Rehat Sejenak** $\rightarrow$ Nol playbook teknis yang dimuat.
 
 ---
 *Token Engine — Yerly-Playground 🌸*

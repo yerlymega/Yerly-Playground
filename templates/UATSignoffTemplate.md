@@ -12,7 +12,7 @@ Dengan ini menyatakan bahwa pengujian User Acceptance Test (UAT) untuk fitur ter
 
 | Peran | Nama | Jabatan | Tanda Tangan / Tanggal |
 |---|---|---|---|
-| **QA Engineer** | Mbak Yerly | Senior QA Engineer | `[ APPROVED ]` |
+| **QA Engineer** | Boss Yerly | Senior QA Engineer | `[ APPROVED ]` |
 | **QA Lead** | Rory / Rio | QA Automation Lead | `[ APPROVED ]` |
 | **Project Manager**| ... | IT PM Bank Mega | `[ APPROVED ]` |
 | **Product Owner** | ... | Business User / PO | `[ APPROVED ]` |

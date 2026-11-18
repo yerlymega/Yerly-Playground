@@ -10,11 +10,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 PLAYBOOKS_DIR = BASE_DIR / "playbooks"
 
 ROUTING_MAP = {
-    "1": ["qa-katalon-mobile.md", "bank-mega-m-smile.md", "datacore-ssot.md"],
-    "2": ["uat-test-script-design.md", "qa-reporting-and-docs.md"],
-    "3": ["debugging-forensics.md", "qa-katalon-mobile.md"],
-    "4": ["host-as400-core-banking.md"],
-    "5": ["qa-reporting-and-docs.md", "uat-test-script-design.md"],
+    "1": ["git-governance.md"],
+    "2": ["qa-katalon-mobile.md", "bank-mega-m-smile.md", "datacore-ssot.md"],
+    "3": ["uat-test-script-design.md", "bank-mega-m-smile.md", "qa-reporting-and-docs.md"],
+    "4": ["debugging-forensics.md", "qa-katalon-mobile.md"],
+    "5": ["host-as400-core-banking.md", "qa-reporting-and-docs.md"],
     "6": []
 }
 
