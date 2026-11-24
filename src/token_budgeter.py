@@ -4,8 +4,6 @@ Yerly-Playground — Token Budgeting & Context Monitor Utility 🌸✨
 Menghitung estimasi token berkas-berkas di workspace untuk menjaga efisiensi konteks.
 """
 
-import os
-import sys
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent

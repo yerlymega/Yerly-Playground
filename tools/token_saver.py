@@ -3,8 +3,6 @@
 Yerly-Playground — Interactive Token Saver Mode Selector 🌸✨
 """
 
-import sys
-
 MODES = [
     ("1", "Programming & Software Engineering (Coding, Refactor & Architecture) [Recommended]"),
     ("2", "QA Automation (Katalon Studio, M-Smile Mobile & Appium)"),

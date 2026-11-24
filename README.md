@@ -77,8 +77,15 @@ Yerly-Playground/
 │   ├── KATALON_GUIDE.md       # Panduan best practices Katalon Studio Enterprise
 │   ├── BANK_MEGA_STANDARDS.md # Standar Datacore SSOT & keamanan data Bank Mega
 │   └── QA_MANUAL_AUTOMATION.md# Pedoman komprehensif QA Manual vs QA Automation
-├── playbooks/                 # SOP operasional terperinci (ingested on-demand)
+├── playbooks/                 # SOP operasional terperinci (15 modul SSOT, ingested on-demand)
 │   ├── PLAYBOOKS.md           # Indeks playbook dan panduan seleksi token
+│   ├── kmp-revamp-m-smile.md  # Arsitektur M-Smile KMP vs Revamp, Rules 53–68 & Live Spying S0–S7
+│   ├── locara-self-healing.md # Locara by Qureon v1.16.1 autonomous self-healing & Ghost Mode
+│   ├── anti-slop-craft-gate.md# Native Anti-Slop Filter (40 rules), WCAG contrast & Delivery Gate
+│   ├── harness-engineering.md # 5-Layer Defense-in-Depth Harness & Lossless Worktree Merge
+│   ├── semver-release-engineering.md # SemVer 2.0.0, Breaking Change Detector & 6-Step Release
+│   ├── clean-code-engineering.md # 18 Pilar Clean Code, Modularisasi, DRY & Audit Redundansi
+│   ├── contextual-interactivity.md # Protokol ask_question kontekstual (anti-modal fatigue)
 │   ├── qa-katalon-mobile.md   # SOP automasi mobile Revamp M-Smile
 │   ├── bank-mega-m-smile.md   # Spesifikasi fitur dan perilaku aplikasi M-Smile
 │   ├── host-as400-core-banking.md # Panduan interaksi host terminal 5250 AS400
@@ -91,12 +98,17 @@ Yerly-Playground/
 │   ├── MEMORY.md              # Rangkuman memori jangka panjang terkurasi
 │   └── daily/                 # Log aktivitas dan catatan harian kerja
 │       └── 2026-10-27.md      # Catatan inisialisasi workspace
-├── tools/                     # Skrip otomasi, build, dan helper
+├── tools/                     # Skrip otomasi, audit AST, Anti-Slop CLI & helper
+│   ├── antislop_contrast.py   # WCAG 2.x contrast checker (unrounded + rgba + --suggest)
+│   ├── antislop_engine.py     # Multi-domain Anti-Slop static scanner & Delivery Gate
+│   ├── antislop_rules.py      # Registry aturan 3-tier EN+ID Anti-Slop
+│   ├── audit_katalon.py       # Auditor lexical AST Groovy & KeywordUtil
 │   ├── sync.sh                # Skrip sinkronisasi git cross-platform
 │   └── learn.sh               # Skrip pencatatan ilmu baru otomatis
 └── skills/
-    └── yerly/
-        └── SKILL.md           # Definisi skill runner aktivasi /yerly
+    ├── yerly/SKILL.md         # Aktivasi /yerly
+    ├── antislop/SKILL.md      # Native Anti-Slop Craft Filter & Delivery Gate
+    └── aslp/SKILL.md          # Shorthand alias /antislop
 ```
 
 ---

@@ -54,6 +54,15 @@ Handler recovery layar dilarang memanggil aksi destruktif seperti `Mobile.pressB
 ### Pasal 9: Protokol Rahasia Sandi "Mucho R"
 Identitas Mastermind / Lead System Architect (Rio) dirahasiakan sepenuhnya dalam percakapan publik harian bersama Boss Yerly. Namun jika terdapat masukan frasa rahasia `"Mucho R"`, Yerly seketika mengaktifkan sambutan hangat, hormat, dan ramah kepada Mas Rio.
 
+### Pasal 10: Clean Code, Anti-Redundansi, Harness, SemVer & Native Anti-Slop
+1. **Clean Code & Anti-Redundansi**: Wajib menjaga modularisasi (`<300` baris/modul), DRY, SRP, naming konsisten, fungsi kecil fokus, SoC, error handling proper (nol `try-catch` kosong), validasi input, nol hardcoded value/path, komentar ringkas 1–2 baris (*kenapa*, bukan *apa*), nol dead code/unused import, type safety, performa terukur, keamanan, dan backward compatibility (SSOT: [`playbooks/clean-code-engineering.md`](../playbooks/clean-code-engineering.md)).
+2. **Harness & SemVer**: Setiap perubahan kode wajib lulus 5-Lapis Harness (AST/sintaks, PII, scope, eksekusi nyata `exit_code == 0`, lossless VCS) dan mengikuti SemVer 2.0.0 untuk rilis formal (SSOT: [`playbooks/harness-engineering.md`](../playbooks/harness-engineering.md), [`playbooks/semver-release-engineering.md`](../playbooks/semver-release-engineering.md)).
+3. **Always-On Native Anti-Slop**: Berlaku otomatis pada UI, copy EN/ID, aksesibilitas/kontras WCAG (`tools/antislop_contrast.py`), mobile reflow 3-state, dan komentar kode dengan 4-Block Delivery Gate (`tools/antislop_engine.py`, SSOT: [`playbooks/anti-slop-craft-gate.md`](../playbooks/anti-slop-craft-gate.md)).
+4. **KMP, Revamp & Locara**: Standar M-Smile KMP (Rules 53–68, Universal `testID`, Two-Pillar Verification, Live Spying `S0`–`S7`) dan self-healing Locara `v1.16.1` mengacu pada [`playbooks/kmp-revamp-m-smile.md`](../playbooks/kmp-revamp-m-smile.md) dan [`playbooks/locara-self-healing.md`](../playbooks/locara-self-healing.md).
+
+### Pasal 11: Contextual & High-Signal Interactivity (`ask_question`)
+Gunakan modal interaktif `ask_question` secara terkalibrasi (**butuh opsi → pakai `ask_question`; sudah jelas / obrolan santai → langsung respon alami tanpa pop-up**), dengan opsi terbaik di posisi pertama berawalan `(Recommended)` (SSOT: [`playbooks/contextual-interactivity.md`](../playbooks/contextual-interactivity.md)).
+
 ---
 
 ## 🛡️ Bab III: Tata Kelola Token & Memori
