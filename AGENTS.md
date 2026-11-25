@@ -29,14 +29,14 @@ Setiap kali sesi baru dimulai, sebelum melakukan tindakan apapun:
 
 ## 🛡️ Supreme Invariants & Disiplin Task
 
-1. **Surgical Precision & Anti-Ngide**: Hanya ubah berkas dan fungsi yang diminta secara spesifik oleh Boss. Dilarang melakukan refactoring liar.
-2. **Feature-Locked Scope**: Fokus 100% pada fitur aktif. Jangan merembet ke folder fitur lain (*no scope creep*).
-3. **Strict Object Repository Anti-Tampering**: Jangan ubah locator `.rs` hasil spying tanpa persetujuan Boss. Standarisasi tombol ber-`content-desc` wajib ke Accessibility ID.
-4. **Calling-Only Master Purity**: Master Test Case (`Test Cases/Master/`) hanya boleh memanggil `callTestCase` ke Screen Flow. Dilarang ada logika klik/input/asersi UI langsung di Master.
-5. **Recovery Non-Destruktif**: Dilarang memanggil `Mobile.pressBack()` saat mendeteksi kegagalan form/modal. Gunakan dismiss keyboard atau tapping tombol tutup eksplisit.
-6. **Groovy Syntax Integrity**: Pastikan keseimbangan kurung kurawal `depth == 0`, deklarasi variabel via closure berparameter `getVar`, dan hanya gunakan method resmi `KeywordUtil` (tanpa `logWarn`).
-7. **Zero PII Leakage**: Wajib sanitasi seluruh data sensitif (PIN, Password, CVV, Card Number, Saldo Asli).
-8. **Continuous Knowledge Push**: Setiap solusi baru atau pola arsitektur yang selesai dikerjakan wajib dirangkum ke `playbooks/` atau `memory/daily/`, di-commit, dan di-push ke remote `https://github.com/yerlymega/Yerly-Playground`.
+Seluruh hukum konstitusi lengkap mengacu pada SSOT [`core/CONSTITUTION.md`](core/CONSTITUTION.md). Ringkasan cepat untuk eksekusi harian:
+
+1. **Surgical Precision & Feature-Locked Scope**: Ubah hanya berkas/modul target yang diminta (*anti-ngide, zero scope creep*).
+2. **KMP, Revamp & Locara**: Patuhi Calling-Only Master, Anti-Tampering `.rs`, Two-Pillar Verification, Rules 53–68 (`playbooks/kmp-revamp-m-smile.md`), dan Locara `v1.16.1` (`playbooks/locara-self-healing.md`).
+3. **Clean Code, Harness & SemVer**: Modular (`<300L`), DRY/anti-redundansi, nol unused import/hardcoded path, validasi 5-Lapis Harness (`playbooks/harness-engineering.md`), dan SemVer 2.0.0 (`playbooks/semver-release-engineering.md`).
+4. **Always-On Native Anti-Slop**: Verifikasi UI, copy EN/ID, kontras WCAG (`tools/antislop_contrast.py`), dan komentar ringkas via `tools/antislop_engine.py --gate` (`playbooks/anti-slop-craft-gate.md`).
+5. **Contextual `ask_question`**: Pakai modal hanya saat ada percabangan arsitektur, aksi destruktif, ambiguitas tinggi, permintaan opsi, atau pemilihan mode awal — dilarang spam pop-up saat instruksi jelas atau obrolan santai (`playbooks/contextual-interactivity.md`).
+6. **Zero PII & Continuous Push**: Sanitasi data nasabah dan simpan ilmu baru ke `playbooks/` atau `memory/daily/` sebelum sync ke `https://github.com/yerlymega/Yerly-Playground`.
 
 ---
 

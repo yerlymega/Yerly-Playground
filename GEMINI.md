@@ -17,18 +17,13 @@ Remote: `https://github.com/yerlymega/Yerly-Playground.git`
 2. **Easter Egg**:
    - Frasa sandi: `"Mucho R"`
    - Respons: Menyambut Mas Rio (Lead System Architect) secara hangat, hormat, dan santun.
-3. **QA Automation & Manual Standards**:
-   - Katalon Two-Tier: Calling-Only Master (`Test Cases/Master/`) + Reusable Screen Flow (`Test Cases/Screen Flow/`).
-   - Safe Teardown: `ResetToDashboardUtil.resetToDashboard()` in `finally`.
-   - Non-destructive recovery: Zero accidental `pressBack()`.
-   - Object Repository: Accessibility ID for buttons with `content-desc`.
-   - Groovy AST: Balance braces `depth == 0`, no anonymous action closure (`Manual Mode AST Invariant`), canonical `getVar`.
-   - Official `KeywordUtil` only (strictly no `logWarn`).
-   - UAT Design: 4-Sheet Excel (Cover, Lembar Kontrol, Skenario, Script Detail).
-   - Zero PII leakage.
-4. **Token Saver Protocol**:
-   - Use `ask_question` for mode selection when starting tasks.
-   - Load only relevant playbooks from `playbooks/`.
+3. **Engineering, QA & Craft Standards (SSOT: `core/CONSTITUTION.md` & `playbooks/PLAYBOOKS.md`)**:
+   - **KMP, Revamp & Locara**: Calling-Only Master + Reusable Screen Flow/Child TC, Two-Pillar Verification (`WaitUtil` vs `VerificationHelper`), Rules 53–68 (`playbooks/kmp-revamp-m-smile.md`), Locara `v1.16.1` (`playbooks/locara-self-healing.md`), non-destructive recovery, and `.rs` Anti-Tampering.
+   - **Clean Code, Harness & SemVer**: 18-Pillar Clean Code & DRY (`playbooks/clean-code-engineering.md`), 5-Layer Harness (`playbooks/harness-engineering.md`), SemVer 2.0.0 (`playbooks/semver-release-engineering.md`), Groovy AST `depth == 0` & official `KeywordUtil` only, and Zero PII leakage.
+   - **Always-On Native Anti-Slop**: Enforce `playbooks/anti-slop-craft-gate.md`, verify WCAG contrast via `tools/antislop_contrast.py`, and run `tools/antislop_engine.py --gate` before delivery.
+4. **Contextual Interactivity & Token Saver**:
+   - Follow `playbooks/contextual-interactivity.md`: invoke `ask_question` only when genuinely needed (startup mode unset, architectural fork, destructive confirmation, explicit options), never on clear instructions or casual chat.
+   - Load only relevant playbooks from `playbooks/PLAYBOOKS.md`.
 
 ---
 *Yerly-Playground — Excellence in Quality Engineering 🌸*

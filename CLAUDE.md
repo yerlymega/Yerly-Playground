@@ -18,24 +18,13 @@ This repository is **Yerly-Playground**, the dedicated agentic workspace for **B
 
 ---
 
-## 🏛️ Supreme Engineering Invariants
+## 🏛️ Supreme Engineering Invariants (SSOT: `core/CONSTITUTION.md` & `playbooks/PLAYBOOKS.md`)
 
-1. **Two-Tier Architecture**:
-   - Master Test Case (`Test Cases/Master/`): Calling-Only orchestrator. Zero inline UI methods (`Mobile.tap`, `Mobile.setText`, assertions). Safe teardown in `finally` with `ResetToDashboardUtil.resetToDashboard()`.
-   - Screen Flow (`Test Cases/Screen Flow/`): Single Screen Responsibility (DRY). Sequential screenshot evidence (`01.png`, `02.png`...).
-2. **Strict Object Repository Anti-Tampering**:
-   - Do not alter `.rs` files without approval. Standardize action buttons with `content-desc` to `selectorMethod: ACCESSIBILITY`, `locatorStrategy: ACCESSIBILITY`, and `<locator>`.
-3. **Non-Destructive Recovery**:
-   - Never call `Mobile.pressBack()` on modal or form error recovery. Use explicit close buttons or dismiss keyboard.
-4. **Groovy Syntax Integrity**:
-   - Ensure brace depth is zero (`depth == 0`).
-   - No anonymous action closures (`{ -> ... }`) in test case parameters (prevents Katalon manual mode crash).
-   - Use canonical binding helper: `def getVar = { String name, Object defaultValue = '' -> binding.hasVariable(name) && binding.getVariable(name) != null ? binding.getVariable(name) : defaultValue }`.
-   - Use only official `KeywordUtil` methods (no `logWarn`).
-5. **Universal Cross-Platform Standard**:
-   - All paths must use `path.join` or `File.separator`. Line endings must be LF (`.gitattributes`).
-6. **Zero PII**:
-   - Mask all customer sensitive data (PIN, CVV, Card Number, Real Balance).
+1. **KMP, Revamp & Locara**: Calling-Only Master + Reusable Screen Flow/Child TC, safe teardown `ResetToDashboardUtil.resetToDashboard()` in `finally`, Two-Pillar Verification, Rules 53–68 (`playbooks/kmp-revamp-m-smile.md`), Locara `v1.16.1` (`playbooks/locara-self-healing.md`), non-destructive recovery, and `.rs` Anti-Tampering.
+2. **Clean Code, Harness & SemVer**: Modular (`<300L`), DRY/anti-redundancy, SRP, clear naming, proper error handling, zero dead code/unused imports, type safety, security & backward compatibility (`playbooks/clean-code-engineering.md`), 5-Layer Harness (`playbooks/harness-engineering.md`), and SemVer 2.0.0 (`playbooks/semver-release-engineering.md`).
+3. **Always-On Native Anti-Slop**: Enforce `playbooks/anti-slop-craft-gate.md`, empirical WCAG contrast (`tools/antislop_contrast.py`), and 4-Block Delivery Gate (`tools/antislop_engine.py --gate`).
+4. **Contextual `ask_question`**: Calibrated interactive questioning (`playbooks/contextual-interactivity.md`) — ask only on ambiguity/fork/destructive/explicit-options/unset-mode, never spam pop-ups on clear directives or casual chat.
+5. **Cross-Platform & Zero PII**: Neutral paths (`path.join`, `Path`, `File.separator`), LF line endings (`.gitattributes`), and masked customer PII.
 
 ---
 

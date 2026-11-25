@@ -8,21 +8,54 @@ import sys
 import re
 from pathlib import Path
 
-def audit_groovy_file(file_path: Path):
-    content = file_path.read_text(encoding="utf-8")
-    issues = []
-    
-    # 1. Brace Balance Check
+def check_lexical_brace_balance(content: str):
+    """Count curly braces outside string literals and comments to avoid false positives."""
     depth = 0
-    for idx, char in enumerate(content):
-        if char == '{':
-            depth += 1
-        elif char == '}':
-            depth -= 1
-            if depth < 0:
-                issues.append(f"Kurung kurawal tutup '}}' berlebih pada karakter ke-{idx}")
+    in_single = False
+    in_double = False
+    in_block_comment = False
+    issues = []
+
+    for line_no, line in enumerate(content.splitlines(), start=1):
+        i = 0
+        while i < len(line):
+            ch = line[i]
+            nxt = line[i + 1] if i + 1 < len(line) else ""
+            if not in_single and not in_double:
+                if not in_block_comment and ch == "/" and nxt == "/":
+                    break
+                if not in_block_comment and ch == "/" and nxt == "*":
+                    in_block_comment = True
+                    i += 2
+                    continue
+                if in_block_comment and ch == "*" and nxt == "/":
+                    in_block_comment = False
+                    i += 2
+                    continue
+            if in_block_comment:
+                i += 1
+                continue
+            if ch == '"' and not in_single and (i == 0 or line[i - 1] != "\\"):
+                in_double = not in_double
+            elif ch == "'" and not in_double and (i == 0 or line[i - 1] != "\\"):
+                in_single = not in_single
+            elif not in_single and not in_double:
+                if ch == "{":
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth < 0:
+                        issues.append(f"Baris {line_no}: Kurung kurawal tutup '}}' berlebih (depth < 0)")
+            i += 1
+
     if depth != 0:
         issues.append(f"Kurung kurawal tidak seimbang (Brace Depth = {depth}, wajib 0)")
+    return issues
+
+
+def audit_groovy_file(file_path: Path):
+    content = file_path.read_text(encoding="utf-8")
+    issues = check_lexical_brace_balance(content)
 
     # 2. Fake KeywordUtil Check
     if re.search(r'KeywordUtil\s*\.\s*(logWarn|logWarning)\b', content):

@@ -23,4 +23,10 @@ Pedoman pengujian fitur-fitur utama aplikasi Bank Mega Revamp M-Smile (Android &
 - **ERR_SALDO**: Saldo sumber dana tidak mencukupi untuk nominal transaksi + biaya admin.
 
 ---
+
+## 3. Rujukan Lanjutan KMP & Self-Healing
+- Untuk arsitektur **M-Smile KMP (Compose Multiplatform)**, Universal `testID`, Rules 53–68, Live Spying `S0`–`S7`, flow Paket Data/E-Wallet, dan katalog `[RC]` terbaru: rujuk [`kmp-revamp-m-smile.md`](kmp-revamp-m-smile.md).
+- Untuk self-healing locator in-process (`v1.16.1`): rujuk [`locara-self-healing.md`](locara-self-healing.md).
+
+---
 *Bank Mega M-Smile Playbook — Yerly-Playground 🌸*

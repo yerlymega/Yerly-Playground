@@ -16,6 +16,10 @@ tmp/
 temp/
 .cache/
 
+# Python bytecode
+__pycache__/
+*.py[cod]
+
 # Katalon & Node build artifacts
 node_modules/
 dist/
